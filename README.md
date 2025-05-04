@@ -18,7 +18,7 @@ I'm a dedicated cybersecurity student passionate about ethical hacking, digital 
 - Studying for **OSCP / CompTIA CySA+**
 
 ## 🧪 Labs & Projects
-- `TryHackMe` Progress: <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3156335" style='border:none;'></iframe>
+- `TryHackMe` Progress: <img src="https://tryhackme-badges.s3.amazonaws.com/naserianntely.png" alt="Your Image Badge" />
 - 🔐 [Vulnversity Writeup](https://github.com/yourusername/vulnversity-writeup)
 - 🔍 [Basic Pentesting Lab](https://github.com/yourusername/basic-pentesting)
 - 💻 [Movie Recommender Project](https://github.com/lee360/movie-recommender)
