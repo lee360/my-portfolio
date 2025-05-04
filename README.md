@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Linet Naserian] — Aspiring Cybersecurity Professional 🔐
+# 👋 Hi, I'm Linet Naserian — Aspiring Cybersecurity Professional 🔐
 
 ## 🧠 About Me
 I'm a dedicated cybersecurity student passionate about ethical hacking, digital forensics, and building secure systems. I'm currently studying **BSc in Information Security & Forensics** at KCA University.
