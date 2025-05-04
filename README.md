@@ -14,7 +14,7 @@ I'm a dedicated cybersecurity student passionate about ethical hacking, digital 
 ## 🔍 What I'm Working On
 - A **movie recommendation app** with Firebase auth and personalized recommendations
 - Practicing **Active Directory attacks** and **privilege escalation**
-- **CompTIA Security+ ** certified
+- CompTIA Security+ certified
 - Studying for **OSCP / CompTIA CySA+**
 
 ## 🧪 Labs & Projects
