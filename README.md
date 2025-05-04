@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Linet Naserian — Aspiring Cybersecurity Professional 🔐
+# 👋 Hi, I'm [Linet Naserian] — Aspiring Cybersecurity Professional 🔐
 
 ## 🧠 About Me
 I'm a dedicated cybersecurity student passionate about ethical hacking, digital forensics, and building secure systems. I'm currently studying **BSc in Information Security & Forensics** at KCA University.
@@ -14,10 +14,11 @@ I'm a dedicated cybersecurity student passionate about ethical hacking, digital 
 ## 🔍 What I'm Working On
 - A **movie recommendation app** with Firebase auth and personalized recommendations
 - Practicing **Active Directory attacks** and **privilege escalation**
+- **CompTIA Security+ ** certified
 - Studying for **OSCP / CompTIA CySA+**
 
 ## 🧪 Labs & Projects
-- `TryHackMe` Progress: ![THM badge](https://tryhackme-badges.s3.amazonaws.com/yourusername.png)
+- `TryHackMe` Progress: <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3156335" style='border:none;'></iframe>
 - 🔐 [Vulnversity Writeup](https://github.com/yourusername/vulnversity-writeup)
 - 🔍 [Basic Pentesting Lab](https://github.com/yourusername/basic-pentesting)
 - 💻 [Movie Recommender Project](https://github.com/lee360/movie-recommender)
