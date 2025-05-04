@@ -29,8 +29,7 @@ I'm a dedicated cybersecurity student passionate about ethical hacking, digital 
 - ✅ Apply for a SOC internship
 
 ## 📫 Reach Me
-- 📧 Email: your@email.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 🔗 GitHub: [yourusername](https://github.com/yourusername)
+- 💼 LinkedIn: [Linet Naserian](www.linkedin.com/in/linet-naserian-10834621a)
+- 🔗 GitHub: [lee360](https://github.com/lee360)
 
 > _"The quieter you become, the more you are able to hear."_ — Ram Dass
